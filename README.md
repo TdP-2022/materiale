@@ -1,3 +1,5 @@
+## ATTENZIONE: Il materiale è relativo all'Anno Accademico 2020/21, ed è in fase di aggiornamento al nuovo anno -- si consiglia di attendere a scaricare e/o consultare le informazioni presenti.
+
 # Materiale di studio per il corso di Tecniche di programmazione
 
 Tutte le informazioni sul corso sono al link <http://bit.ly/tecn-progr>
