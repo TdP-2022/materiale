@@ -19,8 +19,7 @@ Nota: per scelta didattica, tutto il software indicato è gratuito e  open sourc
 ### Istruzioni di installazione
 
 * [Istruzioni di installazione per Windows](./info/Istruzioni%20di%20installazione%20software%20%28Win%29.pdf)
-
-* [Istruzioni di installazione per macOS X](./info/installazione_software_MAC.pdf) _(da aggiornare)_
+* [Istruzioni di installazione per macOS X](./info/Istruzioni%20di%20installazione%20software_MAC.pdf)
 
 # Documentazione
 
