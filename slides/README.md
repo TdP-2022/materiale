@@ -8,7 +8,7 @@
 ## 2. JavaFX
 
 * [JavaFX Crash Course](02-01-javafx-crashcourse.pdf)
-* [Pattern Model-View-Controller](02-02-javafx-mvc-pattern.pdf) _(da aggiornare)_
+* [Pattern Model-View-Controller](02-02-javafx-mvc-pattern.pdf)
 
 ## 3. Strutture dati
 
