@@ -3,7 +3,7 @@
 ## 1. Introduzione
 
 * [Introduzione al corso](01-01-introduzione_2022.pdf)
-* [Introduzione a Git e GitHub](01-02-Git-quickintro.pdf) _(da aggiornare)_
+* [Introduzione a Git e GitHub](01-02-Git-quickintro.pdf)
 
 ## 2. JavaFX
 
@@ -12,8 +12,8 @@
 
 ## 3. Strutture dati
 
-* [Set & Hash](03-03-Sets&Hash.pdf) _(da aggiornare)_
-* [Map](03-04-Map.pdf) _(da aggiornare)_
+* [Set & Hash](03-03-Sets&Hash.pdf)
+* [Map](03-04-Map.pdf)
 * [Date e Time in Java e in SQL](03-05-JavaDatesTimes.pdf) _(da aggiornare)_
 * [Queue e Priority Queue](03-06-Queue.pdf) _(da aggiornare)_
 
