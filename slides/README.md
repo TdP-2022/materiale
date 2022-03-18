@@ -19,7 +19,7 @@
 
 ## 4. Database
 
-* [Database access and JDBC](04-01-jdbc-dao.pdf) _(da aggiornare)_
+* [Database access and JDBC](04-01-jdbc-dao.pdf)
 
 ## 5. Algoritmi
 
