@@ -23,7 +23,7 @@
 
 ## 5. Algoritmi
 
-* [Ricorsione](05-01-recursion.pdf) _(da aggiornare)_
+* [Ricorsione](05-01-recursion.pdf)
 * [Introduzione alla Complessità](05-02-complexity.pdf) _(da aggiornare)_
 
 ## 6. Grafi
