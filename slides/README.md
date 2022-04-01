@@ -9,12 +9,13 @@
 
 * [JavaFX Crash Course](02-01-javafx-crashcourse.pdf)
 * [Pattern Model-View-Controller](02-02-javafx-mvc-pattern.pdf)
+* JavaFX Tables and Charts _(nuovo)_
 
 ## 3. Strutture dati
 
 * [Set & Hash](03-03-Sets&Hash.pdf)
 * [Map](03-04-Map.pdf)
-* [Date e Time in Java e in SQL](03-05-JavaDatesTimes.pdf) _(da aggiornare)_
+* [Date e Time in Java e in SQL](03-05-JavaDatesTimes.pdf)
 * [Queue e Priority Queue](03-06-Queue.pdf) _(da aggiornare)_
 
 ## 4. Database
