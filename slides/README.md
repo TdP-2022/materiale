@@ -9,7 +9,9 @@
 
 * [JavaFX Crash Course](02-01-javafx-crashcourse.pdf)
 * [Pattern Model-View-Controller](02-02-javafx-mvc-pattern.pdf)
-* JavaFX Tables and Charts _(nuovo)_
+* [JavaFX Tables](02-03-javafx-tables.pdf)  _(nuovo)_
+* JavaFX Charts _(nuovo)_
+
 
 ## 3. Strutture dati
 
